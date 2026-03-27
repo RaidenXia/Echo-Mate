@@ -1,0 +1,3 @@
+[submodule "YOLOserver"]
+	path = YOLOserver
+	url = https://github.com/RaidenXia/host-server
