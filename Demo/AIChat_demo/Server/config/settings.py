@@ -3,7 +3,7 @@ import dashscope
 class Settings:
     protocol_version = 2
     # LLM API 密钥
-    dashscope.api_key = "sk-d8e4dc07bc01425fa83e851bc1d66b7f"
+    dashscope.api_key = "****"
 
     # 模型选择
     INTENT_MODEL = "qwen-turbo"       # 专门用于意图识别
